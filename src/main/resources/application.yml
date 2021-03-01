@@ -1,0 +1,8 @@
+
+spring:
+  #数据库连接配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://106.14.244.179:3306/hellodb?characterEncoding=utf-8&useSSL=false
+    username: root
+    password: 123456
